@@ -31,7 +31,7 @@ namespace GDC_Technical_Assignment
             }
             // Linq
             return list.FirstOrDefault() != null;
-        }
+        }// End IsEmpty
 
         // Email validation Code used: https://docs.microsoft.com/en-us/dotnet/standard/base-types/how-to-verify-that-strings-are-in-valid-email-format
         public static bool IsValidEmail(string email)
@@ -76,7 +76,7 @@ namespace GDC_Technical_Assignment
             {
                 return false;
             }
-        }
+        }// end IsValidEmail
 
         private static void Main(string[] args)
         {// Two lists
