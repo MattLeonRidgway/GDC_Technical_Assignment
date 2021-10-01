@@ -7,8 +7,7 @@
 * Validate the email address found
 * Build two lists one for valid and one for invalid email addresses
 * When finished show both lists to the console
-* If the file doesn't exist show an error message
-*
+* If the file doesn't exist show an error message*
 *
 */
 
